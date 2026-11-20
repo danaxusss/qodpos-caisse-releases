@@ -1,0 +1,1 @@
+# qodpos-caisse-releases
